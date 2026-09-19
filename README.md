@@ -2,7 +2,7 @@
 
 A simple, responsive **GPA Calculator** that runs entirely in your browser using pure HTML, CSS, and JavaScript.
 
-You can see it live here: https://kalharapasan.github.io/GPA-Calculator-In-Web/  
+You can see it live here: https://github.com/Kalhara84/GPA-Calculator-HTML-CSS-JS-.git 
 *It updates GPA in real time as you add courses, grades, and credits.*
 
 ---
@@ -19,7 +19,7 @@ Open the app in your browser and try:
 - **Toggle Dark Mode** — switch theme; preference saved locally  
 - **GPA & Total Credits** update live  
 - **Fully responsive** — works well on both desktop and mobile  
-([kalharapasan.github.io](https://kalharapasan.github.io/GPA-Calculator-In-Web/))
+([kalharapasan.github.io](https://github.com/Kalhara84/GPA-Calculator-HTML-CSS-JS-.git))
 
 ---
 
